@@ -1,6 +1,6 @@
-# Project 1 - *Simple ToDo*
+# Assignment 3 - *Simple Tweet*
 
-**Simple ToDo** is an android app that allows building a todo list and basic todo items management functionality including adding new items, editing and deleting an existing item.
+**Simple Tweet** mimics the twitter app 
 
 Submitted by: **Ung Jae Yun**
 
