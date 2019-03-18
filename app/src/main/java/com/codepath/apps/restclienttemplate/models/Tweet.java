@@ -4,7 +4,9 @@ import android.util.Log;
 
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.parceler.Parcel;
 
+@Parcel
 public class Tweet {
 
     public String body;
@@ -12,6 +14,9 @@ public class Tweet {
     public String createdAt;
     public User user;
     public String name;
+
+    public Tweet(){
+    }
 
     public static Tweet fromJson(JSONObject jsonObject) throws JSONException {
         Tweet tweet = new Tweet();
