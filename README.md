@@ -1,6 +1,6 @@
-*Simple Tweet*
+**Simple Tweet**
 
-**Simple Tweet** mimics the twitter app 
+*Simple Tweet* mimics the twitter app 
 
 * [x] User can sign in to Twitter using OAuth login
 * [x] User can view the tweets from their home timeline
